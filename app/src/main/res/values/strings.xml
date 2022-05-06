@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutineDrumMachine</string>
+    <string name="media_player">Media Player</string>
+    <string name="start">Start</string>
+</resources>
